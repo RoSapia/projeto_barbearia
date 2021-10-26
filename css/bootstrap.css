@@ -230,11 +230,11 @@ sup {
 }
 
 a {
-  color: #c4960e;
+  color: #ffc107;
   text-decoration: underline;
 }
 a:hover {
-  color: #dba606;
+  color: #ffc107;
 }
 
 a:not([href]):not([class]), a:not([href]):not([class]):hover {
@@ -6849,7 +6849,8 @@ textarea.form-control-lg {
 }
 
 .border-bottom {
-  border-bottom: 1px solid #dee2e6 !important;
+  border-bottom: 1px solid #ffc107 !important;
+
 }
 
 .border-bottom-0 {
@@ -7807,6 +7808,7 @@ textarea.form-control-lg {
 .bg-warning {
   --bs-bg-opacity: 1;
   background-color: rgba(var(--bs-warning-rgb), var(--bs-bg-opacity)) !important;
+
 }
 
 .bg-danger {
